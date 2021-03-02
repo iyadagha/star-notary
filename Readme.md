@@ -3,6 +3,6 @@
 - **Token Name:** StarTrack
 - **Token Symbol:** STRT
 
-- **Testnet:** ropsten
-- **Token Address:** https://ropsten.etherscan.io/token/0x44Ff5B5fAba664Cb15509a761e1Db57C570F3210
-- **Contract Address:** https://ropsten.etherscan.io/address/0x44Ff5B5fAba664Cb15509a761e1Db57C570F3210
+
+- **Token Address:** https://rinkeby.etherscan.io/token/0xdF6F07723C518D591Ca252878D39e2a242F2D8C6
+- **Contract Address:** https://rinkeby.etherscan.io/address/0xdF6F07723C518D591Ca252878D39e2a242F2D8C6
